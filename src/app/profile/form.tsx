@@ -28,8 +28,8 @@ export default async function Profile() {
                   />
                 </div>
                 <div className="mt-8">
-                  <p className="mb-3 text-pink-500">Name: {user.name}</p>
-                  <p className="mb-3 text-green-500">Email: {user.email}</p>
+                  <p className="mb-3 text-black">Name: {user.name}</p>
+                  <p className="mb-3 text-black">Email: {user.email}</p>
                 </div>
               </div>
             )}
